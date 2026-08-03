@@ -1,6 +1,6 @@
 # Research Projects
 
-EE sophomore at Holyoke Community College, transitioning into deeper analog/power electronics and IC design work through independent research and a bench-test internship at Nel Hydrogen. These two projects were built to develop not only to get hands-on measurement and analysis skills ahead of EE internship/co-op interviews but curious exploration.
+EE sophomore, transitioning into deeper analog/power electronics and IC design work through independent research and a bench-test internship at Nel Hydrogen. These two projects were built to develop not only to get hands-on measurement and analysis skills ahead of EE internship/co-op interviews but curious exploration.
 
 ## Projects
 
