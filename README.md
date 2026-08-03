@@ -1,8 +1,6 @@
 # Research Projects
 
-Independent research projects in hardware/firmware design and computational neuroscience, ongoing since October 2025.
-
-**Background:** [1–2 sentences — your year, school, major, relevant coursework/experience]
+EE sophomore at Holyoke Community College, transitioning into deeper analog/power electronics and IC design work through independent research and a bench-test internship at Nel Hydrogen. These two projects were built to develop not only to get hands-on measurement and analysis skills ahead of EE internship/co-op interviews but curious exploration.
 
 ## Projects
 
