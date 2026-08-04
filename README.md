@@ -1,17 +1,75 @@
 # Research Projects
 
-EE sophomore, transitioning into deeper analog/power electronics and IC design work through independent research and a bench-test internship at Nel Hydrogen. These two projects were built to develop not only to get hands-on measurement and analysis skills ahead of EE internship/co-op interviews but curious exploration.
+EE sophomore developing experience in analog electronics, power integrity, and mixed-signal circuit design through independent research. These projects explore circuit-level modeling, measurement systems, and analysis techniques while building a foundation toward analog integrated circuit (IC) design.
 
 ## Projects
 
 | # | Project | Status | Summary |
 |---|---------|--------|---------|
-| 1 | Power Integrity & Noise Analysis Tester | 🔧 In progress | A 4-layer PCB power integrity measurement system for sub-mV ripple characterization, combining custom hardware, STM32 firmware, and a Python analysis pipeline exploring topological data analysis (TDA) for noise characterization. |
-| 2 | Topological Analysis of Neural Circuit Constraints | 🔧 In progress | A graph-theoretic framework evaluating whether analog neuromorphic circuit abstractions preserve biological neural connectivity structure, using retinal ganglion cell network simulations and SPICE-equivalent circuit mappings. |
+| 1 | Power Integrity & Noise Analysis Tester | 🔧 In progress | A 4-layer PCB-based power integrity measurement platform for sub-mV ripple characterization, combining custom hardware, STM32 firmware, and Python-based signal analysis with TDA exploration. |
+| 2 | Topological Analysis of Neural Circuit Constraints | 🔧 In progress | A computational framework evaluating whether analog neuromorphic circuit abstractions preserve biological neural connectivity structures using Brian2 simulations, SPICE-equivalent models, and persistent homology. |
 
-Each project folder contains a README with methodology, design/debug process, results, and lessons learned, along with source files (hardware design, firmware, notebooks) and data/figures where available.
+---
 
-## Tools Used
+## Project Documentation
 
-**Project 1:** KiCad · STM32CubeIDE · Python (signal processing, TDA)
-**Project 2:** Brian2 · SPICE · Python (graph theory, TDA)
+Each project folder contains:
+- Design methodology
+- Hardware/software architecture
+- Simulation approach
+- Debugging process
+- Experimental results
+- Lessons learned
+- Source files, data, and figures where available
+
+---
+
+# Tools Used
+
+**Hardware Design**
+- KiCad
+- STM32
+- Analog circuit design
+- Oscilloscope-based measurement
+
+**Simulation & Analysis**
+- Python
+- SPICE
+- Brian2
+- Graph theory
+- Topological data analysis (TDA)
+
+---
+
+# Current Research
+
+## 🔧 Power Integrity & Noise Analysis Tester
+
+Developing a hardware-based power integrity characterization platform for measuring low-level supply ripple and analyzing noise behavior in embedded systems.
+
+**Focus Areas**
+- 4-layer PCB design in KiCad
+- Low-noise power architecture
+- LDO isolation and targeted decoupling
+- STM32-based ADC acquisition (1 MSPS)
+- UART data streaming
+- Python signal analysis pipeline
+- TDA-based noise characterization
+
+➡️ See project folder for full methodology, design details, and results.
+
+---
+
+## 🔬 Topological Analysis of Neural Circuit Constraints
+
+Developing a computational framework to investigate whether analog neural circuit implementations preserve structural properties of biological neural networks.
+
+**Focus Areas**
+- Retinal ganglion cell modeling in Brian2
+- SPICE-equivalent analog neuron circuits
+- Graph-based connectivity analysis
+- Persistent homology
+- Betti number analysis
+- Biological vs. analog topology comparison
+
+➡️ See project folder for full methodology, simulations, and analysis.
