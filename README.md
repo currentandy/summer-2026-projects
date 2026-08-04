@@ -1,6 +1,6 @@
 # Research Projects
 
-EE sophomore developing experience in analog electronics, power integrity, and mixed-signal circuit design through independent research. These projects explore circuit-level modeling, measurement systems, and analysis techniques while building a foundation toward analog integrated circuit (IC) design.
+EE student developing experience in analog electronics, power integrity, and mixed-signal circuit design through independent research. These projects explore circuit-level modeling, measurement systems, and analysis techniques while building a foundation toward analog integrated circuit (IC) design.
 
 ## Projects
 
@@ -8,8 +8,6 @@ EE sophomore developing experience in analog electronics, power integrity, and m
 |---|---------|--------|---------|
 | 1 | Power Integrity & Noise Analysis Tester | 🔧 In progress | A 4-layer PCB-based power integrity measurement platform for sub-mV ripple characterization, combining custom hardware, STM32 firmware, and Python-based signal analysis with TDA exploration. |
 | 2 | Topological Analysis of Neural Circuit Constraints | 🔧 In progress | A computational framework evaluating whether analog neuromorphic circuit abstractions preserve biological neural connectivity structures using Brian2 simulations, SPICE-equivalent models, and persistent homology. |
-
----
 
 ## Project Documentation
 
@@ -22,7 +20,6 @@ Each project folder contains:
 - Lessons learned
 - Source files, data, and figures where available
 
----
 
 # Tools Used
 
@@ -43,7 +40,7 @@ Each project folder contains:
 
 # Current Research
 
-## 🔧 Power Integrity & Noise Analysis Tester
+## Power Integrity & Noise Analysis Tester
 
 Developing a hardware-based power integrity characterization platform for measuring low-level supply ripple and analyzing noise behavior in embedded systems.
 
@@ -58,9 +55,7 @@ Developing a hardware-based power integrity characterization platform for measur
 
 ➡️ See project folder for full methodology, design details, and results.
 
----
-
-## 🔬 Topological Analysis of Neural Circuit Constraints
+## Topological Analysis of Neural Circuit Constraints
 
 Developing a computational framework to investigate whether analog neural circuit implementations preserve structural properties of biological neural networks.
 
