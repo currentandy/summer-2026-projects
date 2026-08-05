@@ -7,7 +7,7 @@ EE student developing experience in analog electronics, power integrity, and mix
 | # | Project | Status | Summary |
 |---|---------|--------|---------|
 | 1 | Power Integrity & Noise Analysis Tester | 🔧 In progress | A 4-layer PCB-based power integrity measurement platform for sub-mV ripple characterization, combining custom hardware, STM32 firmware, and Python-based signal analysis with TDA exploration. |
-| 2 | CMOS Analog Building Block Design & Characterization | 🔧 In progress | A transistor-level analog design study exploring CMOS circuit fundamentals through MOSFET characterization, current mirrors, differential amplifier stages, and operational amplifier architectures using LTspice simulation. |
+| 2 | Transistor-Level Analog Circuit Design | 🔧 In progress | A transistor-level analog design study exploring CMOS circuit fundamentals through MOSFET characterization, current mirrors, differential amplifier stages, and operational amplifier architectures using LTspice simulation. |
 | 3 | Topological Analysis of Neural Circuit Constraints | 🔧 In progress | A computational framework evaluating whether analog neuromorphic circuit abstractions preserve biological neural connectivity structures using Brian2 simulations, SPICE-equivalent models, and persistent homology. |
 
 ## Project Documentation
