@@ -7,7 +7,8 @@ EE student developing experience in analog electronics, power integrity, and mix
 | # | Project | Status | Summary |
 |---|---------|--------|---------|
 | 1 | Power Integrity & Noise Analysis Tester | 🔧 In progress | A 4-layer PCB-based power integrity measurement platform for sub-mV ripple characterization, combining custom hardware, STM32 firmware, and Python-based signal analysis with TDA exploration. |
-| 2 | Topological Analysis of Neural Circuit Constraints | 🔧 In progress | A computational framework evaluating whether analog neuromorphic circuit abstractions preserve biological neural connectivity structures using Brian2 simulations, SPICE-equivalent models, and persistent homology. |
+| 2 | CMOS Analog Building Block Design & Characterization | 🔧 In progress | A transistor-level analog design study exploring CMOS circuit fundamentals through MOSFET characterization, current mirrors, differential amplifier stages, and operational amplifier architectures using LTspice simulation. |
+| 3 | Topological Analysis of Neural Circuit Constraints | 🔧 In progress | A computational framework evaluating whether analog neuromorphic circuit abstractions preserve biological neural connectivity structures using Brian2 simulations, SPICE-equivalent models, and persistent homology. |
 
 ## Project Documentation
 
@@ -30,9 +31,10 @@ Each project folder contains:
 - Oscilloscope-based measurement
 
 **Simulation & Analysis**
+- LTspice
 - Python
-- SPICE
 - Brian2
+- SPICE
 - Graph theory
 - Topological data analysis (TDA)
 
@@ -54,6 +56,20 @@ Developing a hardware-based power integrity characterization platform for measur
 - TDA-based noise characterization
 
 ➡️ See project folder for full methodology, design details, and results.
+
+## CMOS Analog Building Block Design & Characterization
+
+Developing transistor-level analog circuit design experience through simulation and characterization of CMOS building blocks, focusing on device behavior, biasing, amplification, and analog performance tradeoffs.
+
+**Focus Areas**
+- MOSFET device characterization
+- CMOS current mirrors
+- Differential amplifier stages
+- Two-stage operational amplifier architectures
+- DC, AC, and transient simulation analysis
+- Analog circuit performance tradeoffs
+
+➡️ See project folder for full methodology, simulations, and design analysis.
 
 ## Topological Analysis of Neural Circuit Constraints
 
