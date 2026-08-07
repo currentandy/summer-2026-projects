@@ -57,7 +57,7 @@ Developing a hardware-based power integrity characterization platform for measur
 
 ➡️ See project folder for full methodology, design details, and results.
 
-## CMOS Analog Building Block Design & Characterization
+##  Transistor-Level Analog Circuit Design
 
 Developing transistor-level analog circuit design experience through simulation and characterization of CMOS building blocks, focusing on device behavior, biasing, amplification, and analog performance tradeoffs.
 
